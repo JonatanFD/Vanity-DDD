@@ -1,0 +1,63 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Authentication\Application\CommandServices\" />
+      <Folder Include="Authentication\Application\QueryServices\" />
+      <Folder Include="Authentication\Domain\Model\" />
+      <Folder Include="Authentication\Domain\Repositories\" />
+      <Folder Include="Authentication\Domain\Services\" />
+      <Folder Include="Authentication\Infrastructure\Repositories\" />
+      <Folder Include="Configuration\Application\CommandServices\" />
+      <Folder Include="Configuration\Application\QueryServices\" />
+      <Folder Include="Configuration\Domain\Model\" />
+      <Folder Include="Configuration\Domain\Repositories\" />
+      <Folder Include="Configuration\Domain\Services\" />
+      <Folder Include="Configuration\Infrastructure\Repositories\" />
+      <Folder Include="Monitoring\Application\CommandServices\" />
+      <Folder Include="Monitoring\Application\QueryServices\" />
+      <Folder Include="Monitoring\Domain\Model\" />
+      <Folder Include="Monitoring\Domain\Repositories\" />
+      <Folder Include="Monitoring\Domain\Services\" />
+      <Folder Include="Monitoring\Infrastructure\Repositories\" />
+      <Folder Include="PaymentGateway\Application\CommandServices\" />
+      <Folder Include="PaymentGateway\Application\QueryServices\" />
+      <Folder Include="PaymentGateway\Domain\Model\" />
+      <Folder Include="PaymentGateway\Domain\Repositories\" />
+      <Folder Include="PaymentGateway\Domain\Services\" />
+      <Folder Include="PaymentGateway\Infrastructure\Repositories\" />
+      <Folder Include="Security\Application\CommandServices\" />
+      <Folder Include="Security\Application\QueryServices\" />
+      <Folder Include="Security\Domain\Model\" />
+      <Folder Include="Security\Domain\Repositories\" />
+      <Folder Include="Security\Domain\Services\" />
+      <Folder Include="Security\Infrastructure\Repositories\" />
+      <Folder Include="ServerConnection\Application\CommandServices\" />
+      <Folder Include="ServerConnection\Application\QueryServices\" />
+      <Folder Include="ServerConnection\Domain\Model\" />
+      <Folder Include="ServerConnection\Domain\Repositories\" />
+      <Folder Include="ServerConnection\Domain\Services\" />
+      <Folder Include="ServerConnection\Infrastructure\Repositories\" />
+    </ItemGroup>
+
+</Project>
