@@ -16,8 +16,6 @@ public partial class VanityContext : DbContext
     {
     }
 
-    public virtual DbSet<Book> Books { get; set; }
-
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -26,11 +24,6 @@ public partial class VanityContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Book>(entity =>
-        {
-            entity.HasKey(e => e.BookId).HasName("PK__Books__3DE0C2072DF0F73D");
-        });
-
         modelBuilder.Entity<User>(entity =>
         {
             entity.HasKey(e => e.UserId).HasName("PK__Users__1788CC4C42BB1B06");

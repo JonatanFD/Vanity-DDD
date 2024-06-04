@@ -22,4 +22,9 @@ public partial class User
     [StringLength(100)]
     [Unicode(false)]
     public string? Email { get; set; }
+
+    [StringLength(100)]
+    [Unicode(false)]
+    public string? Plan { get; set; }
+
 }
