@@ -23,8 +23,8 @@ public partial class User
     [Unicode(false)]
     public string? Email { get; set; }
 
-    [StringLength(100)]
-    [Unicode(false)]
-    public string? Plan { get; set; }
+    public int? PlanId { get; set; }
 
+    [InverseProperty("Plan")]
+    public virtual PlanesVpn? PlanesVpn { get; set; }
 }
