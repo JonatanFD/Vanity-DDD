@@ -3,64 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\paymentgateway\\planesvpnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\paymentgateway\\planesvpnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\unittest\\securitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\unittest\\securitytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\authentication\\interface\\rest\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\authentication\\interface\\rest\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\models\\planesvpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\models\\planesvpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\data\\vanitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\data\\vanitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\serverconnection\\interface\\rest\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\serverconnection\\interface\\rest\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\authentication\\interface\\rest\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\authentication\\interface\\rest\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\paymentgateway\\interface\\rest\\resource\\paymentgatewayresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\paymentgateway\\interface\\rest\\resource\\paymentgatewayresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\paymentgateway\\interface\\rest\\paymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\paymentgateway\\interface\\rest\\paymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\monitoring\\interface\\rest\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\monitoring\\interface\\rest\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\unittest\\configurationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\unittest\\configurationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\configuration\\interface\\rest\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\configuration\\interface\\rest\\configurationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\vanity.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\vanity.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\security\\interface\\rest\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\security\\interface\\rest\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\obj\\debug\\net8.0\\vanity.api.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\obj\\debug\\net8.0\\vanity.api.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\data\\vanitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\data\\vanitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\serverconnection\\interface\\rest\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\serverconnection\\interface\\rest\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\authentication\\interface\\rest\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\authentication\\interface\\rest\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\models\\planesvpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\models\\planesvpn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\paymentgateway\\planesvpnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\paymentgateway\\planesvpnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\paymentgateway\\interface\\rest\\paymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\paymentgateway\\interface\\rest\\paymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\paymentgateway\\interface\\rest\\resource\\paymentgatewayresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\paymentgateway\\interface\\rest\\resource\\paymentgatewayresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\authentication\\interface\\rest\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\authentication\\interface\\rest\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\monitoring\\interface\\rest\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\monitoring\\interface\\rest\\monitoringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|c:\\users\\nortz\\source\\repos\\vanity-ddd\\vanity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71CAEA18-D224-478A-848D-96A215FB5D2C}|Vanity.API\\Vanity.API.csproj|solutionrelative:vanity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,8 +86,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigurationTest.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\UnitTest\\ConfigurationTest.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\UnitTest\\ConfigurationTest.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\UnitTest\\ConfigurationTest.cs*",
+              "RelativeToolTip": "Vanity.API\\UnitTest\\ConfigurationTest.cs*",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:48:29.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Securitytests.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\UnitTest\\Securitytests.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\UnitTest\\Securitytests.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\UnitTest\\Securitytests.cs*",
+              "RelativeToolTip": "Vanity.API\\UnitTest\\Securitytests.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T01:56:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vanity.API.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\obj\\Debug\\net8.0\\Vanity.API.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\obj\\Debug\\net8.0\\Vanity.API.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\obj\\Debug\\net8.0\\Vanity.API.GlobalUsings.g.cs*",
+              "RelativeToolTip": "Vanity.API\\obj\\Debug\\net8.0\\Vanity.API.GlobalUsings.g.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:05:44.322Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -81,71 +136,46 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlanesVpnsController.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
-              "RelativeToolTip": "Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAIwE0AAAAfAAAA",
+              "DocumentIndex": 5,
+              "Title": "Security.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Security\\Interface\\REST\\Security.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\Security\\Interface\\REST\\Security.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Security\\Interface\\REST\\Security.cs*",
+              "RelativeToolTip": "Vanity.API\\Security\\Interface\\REST\\Security.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T15:15:05.141Z",
+              "WhenOpened": "2024-06-15T08:51:00.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
-              "RelativeToolTip": "Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:33:35.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlanesVpn.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Models\\PlanesVpn.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\Models\\PlanesVpn.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Models\\PlanesVpn.cs",
-              "RelativeToolTip": "Vanity.API\\Models\\PlanesVpn.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:33:03.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
-              "RelativeToolTip": "Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAA4wIAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:33:15.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "ConfigurationController.cs",
               "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Configuration\\Interface\\REST\\ConfigurationController.cs",
               "RelativeDocumentMoniker": "Vanity.API\\Configuration\\Interface\\REST\\ConfigurationController.cs",
               "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Configuration\\Interface\\REST\\ConfigurationController.cs",
               "RelativeToolTip": "Vanity.API\\Configuration\\Interface\\REST\\ConfigurationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwDIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:33:04.082Z"
+              "WhenOpened": "2024-06-04T09:33:04.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ServerConnection.cs",
               "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\ServerConnection\\Interface\\REST\\ServerConnection.cs",
               "RelativeDocumentMoniker": "Vanity.API\\ServerConnection\\Interface\\REST\\ServerConnection.cs",
@@ -158,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Vanity.API\\Properties\\launchSettings.json",
@@ -166,97 +196,38 @@
               "RelativeToolTip": "Vanity.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T09:31:58.829Z"
+              "WhenOpened": "2024-06-04T09:31:58.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "VanityContext.cs",
               "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Data\\VanityContext.cs",
               "RelativeDocumentMoniker": "Vanity.API\\Data\\VanityContext.cs",
               "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Data\\VanityContext.cs",
               "RelativeToolTip": "Vanity.API\\Data\\VanityContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:30:15.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Models\\User.cs",
               "RelativeDocumentMoniker": "Vanity.API\\Models\\User.cs",
               "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Models\\User.cs",
               "RelativeToolTip": "Vanity.API\\Models\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:30:32.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaymentGatewayResource.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
-              "RelativeToolTip": "Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T04:19:13.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PaymentGateway.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
-              "RelativeToolTip": "Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:34:29.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MonitoringController.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
-              "RelativeToolTip": "Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAA5wD0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:34:22.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Vanity.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\appsettings.json",
-              "RelativeToolTip": "Vanity.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-04T09:31:48.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Program.cs",
-              "RelativeDocumentMoniker": "Vanity.API\\Program.cs",
-              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Program.cs",
-              "RelativeToolTip": "Vanity.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:31:03.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "Vanity.API.http",
               "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Vanity.API.http",
               "RelativeDocumentMoniker": "Vanity.API\\Vanity.API.http",
@@ -264,7 +235,125 @@
               "RelativeToolTip": "Vanity.API\\Vanity.API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-06-04T09:32:26.918Z"
+              "WhenOpened": "2024-06-04T09:32:26.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Program.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\Program.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Program.cs",
+              "RelativeToolTip": "Vanity.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:31:03.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
+              "RelativeToolTip": "Vanity.API\\Authentication\\Interface\\REST\\UsersController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:33:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlanesVpn.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Models\\PlanesVpn.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\Models\\PlanesVpn.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Models\\PlanesVpn.cs",
+              "RelativeToolTip": "Vanity.API\\Models\\PlanesVpn.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:33:03.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentGatewayResource.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
+              "RelativeToolTip": "Vanity.API\\PaymentGateway\\Interface\\REST\\Resource\\PaymentGatewayResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:19:13.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
+              "RelativeToolTip": "Vanity.API\\PaymentGateway\\Interface\\REST\\PaymentGateway.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:34:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlanesVpnsController.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
+              "RelativeToolTip": "Vanity.API\\PaymentGateway\\PlanesVpnsController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:15:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
+              "RelativeToolTip": "Vanity.API\\Authentication\\Interface\\REST\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:33:35.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MonitoringController.cs",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
+              "RelativeDocumentMoniker": "Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
+              "RelativeToolTip": "Vanity.API\\Monitoring\\Interface\\REST\\MonitoringController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:34:22.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Vanity.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\nortz\\source\\repos\\Vanity-DDD\\Vanity.API\\appsettings.json",
+              "RelativeToolTip": "Vanity.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T09:31:48.283Z",
+              "EditorCaption": ""
             }
           ]
         }
